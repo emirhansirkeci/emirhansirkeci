@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @justChargin
 - 👀 I’m interested in Web3 World
-- ✨ I’m currently learning Next.JS + React.JS together
+- 💻 I’m currently learning Next.JS + React.JS together
 - 📫 How to reach me -> https://myverse.vercel.app/contact
