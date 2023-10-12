@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @justChargin
+- 👋 Hi, I’m Emir
 - 👀 Interested in blockchain
 - 💻 Currently self-learning React.JS and Solidity
-- 🎓 Also trying to learn Pascal and SQL at school (Akdeniz University)
-- 📫 How to reach me -> https://emirhash.vercel.app
+- 🎓 Also trying to learn Pascal, C# and SQL at school
+- 📫 Personal portfolio (will be updated) -> https://emirhash.vercel.app
