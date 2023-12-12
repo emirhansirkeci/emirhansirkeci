@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Emir
-- 👀 Interested in blockchain
-- 💻 Currently self-learning React.JS and Solidity
-- 🎓 Also trying to learn Pascal, C# and SQL at school
+- 💻 Self-learning how to code by doing different projects
+- 🎓 Currently learning Wordpress, Pascal, C# and SQL at school
 - 📫 Personal portfolio (will be updated) -> https://emirhash.vercel.app
