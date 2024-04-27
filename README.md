@@ -3,4 +3,4 @@
 - 🎓 Currently learning Wordpress, Pascal, C# and SQL at school
 - 📫 Personal portfolio (will be updated) -> https://emirhash.vercel.app
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emirhansirkeci&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emirhansirkeci&theme=dark&hide_border=true)](https://git.io/streak-stats)
